@@ -1,0 +1,122 @@
+{
+    "\/business\/company\/advisors": {
+        "s_type": "business",
+        "p_type": "advisors",
+        "o_type": "company"
+    },
+    "\/business\/company\/founders": {
+        "s_type": "business",
+        "p_type": "founders",
+        "o_type": "company"
+    },
+    "\/business\/company\/industry": {
+        "s_type": "business",
+        "p_type": "industry",
+        "o_type": "company"
+    },
+    "\/business\/company\/major_shareholders": {
+        "s_type": "business",
+        "p_type": "major_shareholders",
+        "o_type": "company"
+    },
+    "\/business\/company\/place_founded": {
+        "s_type": "business",
+        "p_type": "place_founded",
+        "o_type": "company"
+    },
+    "\/business\/company_shareholder\/major_shareholder_of": {
+        "s_type": "business",
+        "p_type": "major_shareholder_of",
+        "o_type": "company_shareholder"
+    },
+    "\/business\/person\/company": {
+        "s_type": "business",
+        "p_type": "company",
+        "o_type": "person"
+    },
+    "\/location\/administrative_division\/country": {
+        "s_type": "location",
+        "p_type": "country",
+        "o_type": "administrative_division"
+    },
+    "\/location\/country\/administrative_divisions": {
+        "s_type": "location",
+        "p_type": "administrative_divisions",
+        "o_type": "country"
+    },
+    "\/location\/country\/capital": {
+        "s_type": "location",
+        "p_type": "capital",
+        "o_type": "country"
+    },
+    "\/location\/location\/contains": {
+        "s_type": "location",
+        "p_type": "contains",
+        "o_type": "location"
+    },
+    "\/location\/neighborhood\/neighborhood_of": {
+        "s_type": "location",
+        "p_type": "neighborhood_of",
+        "o_type": "neighborhood"
+    },
+    "\/people\/deceased_person\/place_of_death": {
+        "s_type": "people",
+        "p_type": "place_of_death",
+        "o_type": "deceased_person"
+    },
+    "\/people\/ethnicity\/geographic_distribution": {
+        "s_type": "people",
+        "p_type": "geographic_distribution",
+        "o_type": "ethnicity"
+    },
+    "\/people\/ethnicity\/people": {
+        "s_type": "people",
+        "p_type": "people",
+        "o_type": "ethnicity"
+    },
+    "\/people\/person\/children": {
+        "s_type": "people",
+        "p_type": "children",
+        "o_type": "person"
+    },
+    "\/people\/person\/ethnicity": {
+        "s_type": "people",
+        "p_type": "ethnicity",
+        "o_type": "person"
+    },
+    "\/people\/person\/nationality": {
+        "s_type": "people",
+        "p_type": "nationality",
+        "o_type": "person"
+    },
+    "\/people\/person\/place_lived": {
+        "s_type": "people",
+        "p_type": "place_lived",
+        "o_type": "person"
+    },
+    "\/people\/person\/place_of_birth": {
+        "s_type": "people",
+        "p_type": "place_of_birth",
+        "o_type": "person"
+    },
+    "\/people\/person\/profession": {
+        "s_type": "people",
+        "p_type": "profession",
+        "o_type": "person"
+    },
+    "\/people\/person\/religion": {
+        "s_type": "people",
+        "p_type": "religion",
+        "o_type": "person"
+    },
+    "\/sports\/sports_team\/location": {
+        "s_type": "sports",
+        "p_type": "location",
+        "o_type": "sports_team"
+    },
+    "\/sports\/sports_team_location\/teams": {
+        "s_type": "sports",
+        "p_type": "teams",
+        "o_type": "sports_team_location"
+    }
+}

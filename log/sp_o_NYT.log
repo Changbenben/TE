@@ -1,0 +1,72 @@
+[2021-11-22 13:06:09,869] [INFO]：subject, f1: 0.89986; precision: 0.92142; recall: 0.87929 
+[2021-11-22 13:06:09,869] [INFO]：subject, f1: 0.89986; precision: 0.92142; recall: 0.87929 
+[2021-11-22 13:06:09,875] [INFO]：preidcate, f1: 0.92371; precision: 0.95144; recall: 0.89755 
+[2021-11-22 13:06:09,875] [INFO]：preidcate, f1: 0.92371; precision: 0.95144; recall: 0.89755 
+[2021-11-22 13:06:09,883] [INFO]：object, f1: 0.85693; precision: 0.92092; recall: 0.80126 
+[2021-11-22 13:06:09,883] [INFO]：object, f1: 0.85693; precision: 0.92092; recall: 0.80126 
+[2021-11-22 13:06:09,889] [INFO]：subject and predicate, f1: 0.89203; precision: 0.91429; recall: 0.87083 
+[2021-11-22 13:06:09,889] [INFO]：subject and predicate, f1: 0.89203; precision: 0.91429; recall: 0.87083 
+[2021-11-22 13:06:12,442] [INFO]：subject, f1: 0.89996; precision: 0.89820; recall: 0.90171 
+[2021-11-22 13:06:12,442] [INFO]：subject, f1: 0.89996; precision: 0.89820; recall: 0.90171 
+[2021-11-22 13:06:12,445] [INFO]：preidcate, f1: 0.91710; precision: 0.91934; recall: 0.91487 
+[2021-11-22 13:06:12,445] [INFO]：preidcate, f1: 0.91710; precision: 0.91934; recall: 0.91487 
+[2021-11-22 13:06:12,450] [INFO]：object, f1: 0.89525; precision: 0.89782; recall: 0.89270 
+[2021-11-22 13:06:12,450] [INFO]：object, f1: 0.89525; precision: 0.89782; recall: 0.89270 
+[2021-11-22 13:06:12,454] [INFO]：subject and predicate, f1: 0.88067; precision: 0.87096; recall: 0.89059 
+[2021-11-22 13:06:12,454] [INFO]：subject and predicate, f1: 0.88067; precision: 0.87096; recall: 0.89059 
+[2021-11-22 13:06:13,788] [INFO]：subject, f1: 0.92313; precision: 0.94144; recall: 0.90551 
+[2021-11-22 13:06:13,788] [INFO]：subject, f1: 0.92313; precision: 0.94144; recall: 0.90551 
+[2021-11-22 13:06:13,789] [INFO]：preidcate, f1: 0.94053; precision: 0.97637; recall: 0.90722 
+[2021-11-22 13:06:13,789] [INFO]：preidcate, f1: 0.94053; precision: 0.97637; recall: 0.90722 
+[2021-11-22 13:06:13,791] [INFO]：object, f1: 0.78566; precision: 0.95009; recall: 0.66975 
+[2021-11-22 13:06:13,791] [INFO]：object, f1: 0.78566; precision: 0.95009; recall: 0.66975 
+[2021-11-22 13:06:13,793] [INFO]：subject and predicate, f1: 0.91675; precision: 0.94944; recall: 0.88625 
+[2021-11-22 13:06:13,793] [INFO]：subject and predicate, f1: 0.91675; precision: 0.94944; recall: 0.88625 
+[2021-11-22 13:06:15,416] [INFO]：subject, f1: 0.89843; precision: 0.96016; recall: 0.84416 
+[2021-11-22 13:06:15,416] [INFO]：subject, f1: 0.89843; precision: 0.96016; recall: 0.84416 
+[2021-11-22 13:06:15,418] [INFO]：preidcate, f1: 0.93213; precision: 0.98865; recall: 0.88172 
+[2021-11-22 13:06:15,418] [INFO]：preidcate, f1: 0.93213; precision: 0.98865; recall: 0.88172 
+[2021-11-22 13:06:15,420] [INFO]：object, f1: 0.78941; precision: 0.95818; recall: 0.67118 
+[2021-11-22 13:06:15,420] [INFO]：object, f1: 0.78941; precision: 0.95818; recall: 0.67118 
+[2021-11-22 13:06:15,423] [INFO]：subject and predicate, f1: 0.90059; precision: 0.95866; recall: 0.84915 
+[2021-11-22 13:06:15,423] [INFO]：subject and predicate, f1: 0.90059; precision: 0.95866; recall: 0.84915 
+[2021-11-22 13:06:17,869] [INFO]：subject, f1: 0.90212; precision: 0.89689; recall: 0.90741 
+[2021-11-22 13:06:17,869] [INFO]：subject, f1: 0.90212; precision: 0.89689; recall: 0.90741 
+[2021-11-22 13:06:17,873] [INFO]：preidcate, f1: 0.91752; precision: 0.91837; recall: 0.91667 
+[2021-11-22 13:06:17,873] [INFO]：preidcate, f1: 0.91752; precision: 0.91837; recall: 0.91667 
+[2021-11-22 13:06:17,877] [INFO]：object, f1: 0.89928; precision: 0.89611; recall: 0.90247 
+[2021-11-22 13:06:17,877] [INFO]：object, f1: 0.89928; precision: 0.89611; recall: 0.90247 
+[2021-11-22 13:06:17,882] [INFO]：subject and predicate, f1: 0.88264; precision: 0.86968; recall: 0.89599 
+[2021-11-22 13:06:17,882] [INFO]：subject and predicate, f1: 0.88264; precision: 0.86968; recall: 0.89599 
+[2021-11-22 13:06:18,939] [INFO]：subject, f1: 0.88410; precision: 0.94456; recall: 0.83091 
+[2021-11-22 13:06:18,939] [INFO]：subject, f1: 0.88410; precision: 0.94456; recall: 0.83091 
+[2021-11-22 13:06:18,940] [INFO]：preidcate, f1: 0.90894; precision: 0.96982; recall: 0.85524 
+[2021-11-22 13:06:18,940] [INFO]：preidcate, f1: 0.90894; precision: 0.96982; recall: 0.85524 
+[2021-11-22 13:06:18,942] [INFO]：object, f1: 0.85391; precision: 0.94896; recall: 0.77616 
+[2021-11-22 13:06:18,942] [INFO]：object, f1: 0.85391; precision: 0.94896; recall: 0.77616 
+[2021-11-22 13:06:18,944] [INFO]：subject and predicate, f1: 0.88343; precision: 0.94243; recall: 0.83139 
+[2021-11-22 13:06:18,944] [INFO]：subject and predicate, f1: 0.88343; precision: 0.94243; recall: 0.83139 
+[2021-11-22 13:06:19,361] [INFO]：subject, f1: 0.91365; precision: 0.94981; recall: 0.88014 
+[2021-11-22 13:06:19,361] [INFO]：subject, f1: 0.91365; precision: 0.94981; recall: 0.88014 
+[2021-11-22 13:06:19,362] [INFO]：preidcate, f1: 0.94308; precision: 0.99049; recall: 0.90000 
+[2021-11-22 13:06:19,362] [INFO]：preidcate, f1: 0.94308; precision: 0.99049; recall: 0.90000 
+[2021-11-22 13:06:19,362] [INFO]：object, f1: 0.78483; precision: 0.96056; recall: 0.66346 
+[2021-11-22 13:06:19,362] [INFO]：object, f1: 0.78483; precision: 0.96056; recall: 0.66346 
+[2021-11-22 13:06:19,363] [INFO]：subject and predicate, f1: 0.91334; precision: 0.95379; recall: 0.87618 
+[2021-11-22 13:06:19,363] [INFO]：subject and predicate, f1: 0.91334; precision: 0.95379; recall: 0.87618 
+[2021-11-22 13:06:19,853] [INFO]：subject, f1: 0.92991; precision: 0.95944; recall: 0.90216 
+[2021-11-22 13:06:19,853] [INFO]：subject, f1: 0.92991; precision: 0.95944; recall: 0.90216 
+[2021-11-22 13:06:19,854] [INFO]：preidcate, f1: 0.96173; precision: 0.98990; recall: 0.93511 
+[2021-11-22 13:06:19,854] [INFO]：preidcate, f1: 0.96173; precision: 0.98990; recall: 0.93511 
+[2021-11-22 13:06:19,855] [INFO]：object, f1: 0.72994; precision: 0.96382; recall: 0.58740 
+[2021-11-22 13:06:19,855] [INFO]：object, f1: 0.72994; precision: 0.96382; recall: 0.58740 
+[2021-11-22 13:06:19,855] [INFO]：subject and predicate, f1: 0.93409; precision: 0.96311; recall: 0.90676 
+[2021-11-22 13:06:19,855] [INFO]：subject and predicate, f1: 0.93409; precision: 0.96311; recall: 0.90676 
+[2021-11-22 13:06:20,081] [INFO]：subject, f1: 0.87097; precision: 0.96429; recall: 0.79412 
+[2021-11-22 13:06:20,081] [INFO]：subject, f1: 0.87097; precision: 0.96429; recall: 0.79412 
+[2021-11-22 13:06:20,081] [INFO]：preidcate, f1: 0.90349; precision: 0.97965; recall: 0.83831 
+[2021-11-22 13:06:20,081] [INFO]：preidcate, f1: 0.90349; precision: 0.97965; recall: 0.83831 
+[2021-11-22 13:06:20,081] [INFO]：object, f1: 0.75465; precision: 0.96121; recall: 0.62117 
+[2021-11-22 13:06:20,081] [INFO]：object, f1: 0.75465; precision: 0.96121; recall: 0.62117 
+[2021-11-22 13:06:20,082] [INFO]：subject and predicate, f1: 0.86042; precision: 0.95824; recall: 0.78072 
+[2021-11-22 13:06:20,082] [INFO]：subject and predicate, f1: 0.86042; precision: 0.95824; recall: 0.78072 
