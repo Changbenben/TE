@@ -1,6 +1,6 @@
 # SP2OJE: Token Level Tagging Scheme For Joint Relational Triple Extraction
 
-##Requirements：
+## Requirements：
 
 * python>=3.7
 * cuda>=10.1
@@ -9,11 +9,11 @@
 pip install -r requirements.txt 
 ```
 
-# Dataset： 
+## Dataset： 
 
 - Copy the dataset to ./data
 
-# Run:
+## Run:
 
 ```bash
 python data/NYT/convert.py
